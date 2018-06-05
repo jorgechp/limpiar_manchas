@@ -20,10 +20,15 @@ es conveniente aplicar:
 5. Suerte
 
 
-## ADVERTENCIAS: 
+## Advertencias 
 
 1) Nunca lavar exclusivamente con agua y empezar a frotar. El agua y el aceite tienen diferente densidad, solo puedes provocar 
 que el agua se extienda.
 2) Tras el paso dos, y debido a lo mencionado anteriormente en la advertencia 1, es posible que la mancha se haya extendido, pero
 debe haber perdido intensidad.
 3) Frotar en seco no es buena idea, menos aún si el aceite aún no ha secado.
+
+
+## Agradecimientos
+
+A @OdeclasOnarres, como coautor del algoritmo de limpieza de ropa para manchas de aceite.
