@@ -17,7 +17,7 @@ Para limpiar manchas de aceite, es recomendable seguir los siguientes pasos:
    4. Frotar suavemente, sin mucha fuerza.
    5. Dejar secar.
    
-3. Si la mancha sigue existiendo -> repetir el [paso 2](#paso_2) una vez más.
+3. Si la mancha sigue existiendo -> repetir el [paso 2](#paso_2) una vez más, hasta un máximo de 3 ocasiones.
 
 4. Si la mancha sigue existiendo -> lavar con detergente en la lavadora.
 
